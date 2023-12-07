@@ -1,0 +1,14 @@
+AMELIORATIONS POSSIBLES
+
+14 images:
+
+-Changer le format en webp*
+-Redimensionner/Renommer et utiliser le srcset (400/800/1200)*
+-Definir les "alt"
+-Definir width/height
+
+Autres:
+
+-Utiliser des defer
+-Minimiser le JS et CSS
+-Supprimer du code inutile?
