@@ -1,14 +1,26 @@
 AMELIORATIONS POSSIBLES
 
-14 images:
+
+**PERFORMANCE**
 
 -Changer le format en webp*
 -Redimensionner/Renommer et utiliser le srcset (400/800/1200)*
--Definir les "alt"
--Definir width/height
+-Utiliser des async/lazy loading*
+-Minimiser le JS et CSS*
 
-Autres:
+**ACCESSIBILITY**
 
--Utiliser des defer
--Minimiser le JS et CSS
--Supprimer du code inutile?
+-Definir les "alt" sur les images*
+-Alt sur les liens
+-lang
+-couleurs
+-form label input
+-Les titres <h1><h2>..
+-Polices ?
+
+**SEO**
+
+-Mettre un <title>
+-meta RS
+-meta description
+-<header><nav><footer>
