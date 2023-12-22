@@ -5,22 +5,21 @@ AMELIORATIONS POSSIBLES
 
 -Changer le format en webp*
 -Redimensionner/Renommer et utiliser le srcset (400/800/1200)*
--Utiliser des async/lazy loading*
+-Utilisation defer/lazy loading*
 -Minimiser le JS et CSS*
 
 **ACCESSIBILITY**
 
 -Definir les "alt" sur les images*
--Alt sur les liens
--lang
+-langFR*
 -couleurs
--form label input
+-form label input*
 -Les titres <h1><h2>..
--Polices ?
+-Polices
 
 **SEO**
 
--Mettre un <title>
+-Mettre un <title>*
+-meta description*
 -meta RS
--meta description
 -<header><nav><footer>
