@@ -4,10 +4,10 @@ AMELIORATIONS POSSIBLES
 **PERFORMANCE**
 
 -Changer le format en webp*
--Redimensionner/Renommer et utiliser le srcset (400/800/1200)*
--Utilisation defer/lazy loading*
+-Utilisation lazy loading*
 -Minimiser le JS et CSS*
--FCP/LCP
+-Ordre d'appel des scripts*
+-Redimensionner/Renommer et utiliser le srcset sur les img*
 
 **ACCESSIBILITY**
 
