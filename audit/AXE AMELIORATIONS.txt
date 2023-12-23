@@ -7,19 +7,19 @@ AMELIORATIONS POSSIBLES
 -Redimensionner/Renommer et utiliser le srcset (400/800/1200)*
 -Utilisation defer/lazy loading*
 -Minimiser le JS et CSS*
+-FCP/LCP
 
 **ACCESSIBILITY**
 
 -Definir les "alt" sur les images*
 -langFR*
--couleurs
 -form label input*
--Les titres <h1><h2>..
--Polices
+-hierarchie des titres <h1><h2>..*
+-couleurs des boutons filtre portfolio*
 
 **SEO**
 
 -Mettre un <title>*
 -meta description*
--meta RS
--<header><nav><footer>
+-add <header><nav><main><footer>*
+-Referencement local + Reseaux sociaux
